@@ -22,3 +22,8 @@ h3{
 #cash{
     color: green;
 }
+
+img{
+    width: 40vw;
+    max-width: 400px;
+}
